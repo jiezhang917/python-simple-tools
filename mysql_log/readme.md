@@ -1,0 +1,1 @@
+split mysql log file to daily log

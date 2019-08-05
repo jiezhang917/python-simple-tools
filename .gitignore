@@ -1,0 +1,6 @@
+.idea
+*.txt
+*.xls
+*.xml
+*.html
+test_*/*
